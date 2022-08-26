@@ -1,5 +1,6 @@
 # chikboy
 ChikBoy - 2D pixelart hypercasual game
+
     /\_____/\
    /  o   o  \
   ( ==  ^  == )
